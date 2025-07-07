@@ -1,0 +1,7 @@
+{
+  "internalName": "orehighlighter",
+  "displayName": "Ore Highlighter",
+  "description": "Highlights paydirt and amethyst with a sleeker icon",
+  "tags": ["mining", "amethyst", "motherlode", "highlight", "overlay"],
+  "enabledByDefault": true
+}
